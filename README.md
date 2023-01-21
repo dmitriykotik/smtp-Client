@@ -1,11 +1,11 @@
 # End-User License Agreement (EULA) of SMTP Client
-This End-User License Agreement ("EULA") is a legal agreement between you and MultiPlayer. Our EULA was created by EULA Template for SMTP Client.
+This End-User License Agreement ("EULA") is a legal agreement between you and MultiPlayer.
 
 This EULA agreement governs your acquisition and use of our SMTP Client software ("Software") directly from MultiPlayer or indirectly through a MultiPlayer authorized reseller or distributor (a "Reseller").
 
 Please read this EULA agreement carefully before completing the installation process and using the SMTP Client software. It provides a license to use the SMTP Client software and contains warranty information and liability disclaimers.
 
-If you register for a free trial of the SMTP Client software, this EULA agreement will also govern that trial. By clicking "accept" or installing and/or using the SMTP Client software, you are confirming your acceptance of the Software and agreeing to become bound by the terms of this EULA agreement.
+If you register for a free trial of the SMTP Client software, this EULA agreement will also govern that trial. By installing and/or using the SMTP Client software, you are confirming your acceptance of the Software and agreeing to become bound by the terms of this EULA agreement.
 
 If you are entering into this EULA agreement on behalf of a company or other legal entity, you represent that you have the authority to bind such entity and its affiliates to these terms and conditions. If you do not have such authority or if you do not agree with the terms and conditions of this EULA agreement, do not install or use the Software, and you must not accept this EULA agreement.
 
